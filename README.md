@@ -49,6 +49,9 @@
   <a href="#" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloudflare/cloudflare-original.svg" alt="Cloudflare" width="40" height="40"/>
   </a>
+  <a href="#" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg" alt="Notion" width="40" height="40"/>
+  </a>
 </p>
 
 <h3 align="left">OSs:</h3>
@@ -61,6 +64,9 @@
   </a>
   <a href="#" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kalilinux/kalilinux-original.svg" alt="Kali Linux" width="40" height="40"/>
+  </a>
+  <a href="#" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pfsense/pfsense-original.svg" alt="pfSense" width="40" height="40"/>
   </a>
 </p>
 
