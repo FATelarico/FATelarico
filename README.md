@@ -19,8 +19,8 @@ You can click the Preview link to take a look at your changes.
   <a href="https://www.c-language.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   </a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+  <a href="https://www.ibm.com/think/topics/vibe-coding" target="_blank" rel="noreferrer">
+    <img src="https://static.thenounproject.com/png/vibe-coding-icon-7993200-512.png" alt="AI-assisted coding" width="40" height="40"/>
   </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
@@ -60,8 +60,8 @@ You can click the Preview link to take a look at your changes.
   <a href="https://www.cloudflare.com/en-gb/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloudflare/cloudflare-original.svg" alt="Cloudflare" width="40" height="40"/>
   </a>
-  <a href="https://www.notion.so/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg" alt="Notion" width="40" height="40"/>
+  <a href="https://www.chatgpt.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/openai.png" alt="Chat GPT" width="40" height="40"/>
   </a>
 </p>
 
