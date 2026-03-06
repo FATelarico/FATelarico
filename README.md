@@ -110,43 +110,6 @@ You can click the Preview link to take a look at your changes.
   </a>
 </p>
 
-## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/> Projects
-
-<a href="https://www.fatelarico.eu/BMconcor/" target="_blank" rel="noreferrer">
-  <img src="https://www.fatelarico.eu/BMconcor/reference/figures/logo.png" alt="BMconcor" width="160" height="160"/>
-</a>
-&numsp;
-<a href="https://www.fatelarico.eu/morestopwords/" target="_blank" rel="noreferrer">
-  <img src="https://www.fatelarico.eu/morestopwords/logo.png" alt="morestopwords" width="160" height="160"/>
-</a>
-&numsp;
-<a href="https://www.fatelarico.eu/FinNet/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/FATelarico/FinNet/refs/heads/GitHub_page/logo.png" alt="FinNet" width="160" heigth="160"/>
-</a>
-&numsp;
-<a href="https://github.com/FATelarico?tab=repositories" target="_blank" rel="noreferrer">
-  <img src="https://www.freelogovectors.net/wp-content/uploads/2024/01/more-logo-freelogovectors.net_-640x400.png" alt="FinNet" height="160"/>
-</a>
-
-## More
-
-### An extension for Chromium-based browsers (Chrome, Edge, Brave, etc.)
-<a href="https://microsoftedge.microsoft.com/addons/detail/inview-highlighter/inanbhbhbhmnjiobekceimlieonbffob" target="_blank" rel="noreferrer">
-  <img src="https://www.fatelarico.eu/InView-Highlighter/assets/images/icon.svg" alt="InView Highlighter" height="120"/>
-</a>
-
-### Mods for videogames
-
-<img src="https://images.nexusmods.com/images/games/v2/1704/tile.jpg" height="120"/>&emsp;&emsp;
-<a href="https://www.nexusmods.com/skyrimspecialedition/mods/149020" target="_blank" rel="noreferrer">
-  <img src="https://staticdelivery.nexusmods.com/mods/1704/images/149020/149020-1746175382-1464816496.png" alt="Patch for A Rose in the Snow - Reborn and Immersive Weapons" height="120"/>
-</a>
-
-<img src="https://images.nexusmods.com/images/games/v2/424/tile.jpg" height="100"/>&emsp;&emsp;
-<a href="https://www.nexusmods.com/rimworld/mods/600" target="_blank" rel="noreferrer">
-  <img src="https://staticdelivery.nexusmods.com/mods/424/images/headers/600_1768673150.jpg" alt="Patch for A Rose in the Snow - Reborn and Immersive Weapons" height="100"/>
-</a>
-
 # Using GitHub Under Protest
 
 > [!WARNING]  
