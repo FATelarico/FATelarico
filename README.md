@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
   </a>
   &numsp;
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/selfhst/icons@main/svg/python.svg" alt="Python" width="40" height="40"/>
   </a>
   &numsp;
   <a href="https://www.c-language.org/" target="_blank" rel="noreferrer">
@@ -35,11 +35,11 @@ You can click the Preview link to take a look at your changes.
   </a>
   &numsp;
   <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" alt="LaTeX" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/selfhst/icons@main/svg/latex.svg" alt="LaTeX" width="40" height="40"/>
   </a>
   &numsp;
   <a href="https://rmarkdown.rstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/rstudio/rmarkdown/raw/main/man/figures/logo.png" alt="R Markdown" width="40" height="40"/>
+    <img src="https://rmarkdown.net/img/logo.svg" alt="R Markdown" width="35" height="40"/>
   </a>
 </p>
 
@@ -59,54 +59,54 @@ You can click the Preview link to take a look at your changes.
   </a>
   &numsp;
   <a href="https://podman.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/podman/podman-original.svg" alt="Podman" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/selfhst/icons@main/svg/podman.svg" alt="Podman" width="40" height="40"/>
   </a>
   &numsp;
   <a href="https://nginx.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/selfhst/icons@main/webp/nginx-proxy-manager.webp" alt="Nginx" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/selfhst/icons@main/svg/nginx-proxy-manager.svg" alt="Nginx Proxy Manager" width="40" height="40"/>
   </a>
   &numsp;
   <a href="https://www.gimp.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg" alt="GIMP" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/selfhst/icons@main/svg/gimp.svg" alt="GIMP" width="40" height="40"/>
   </a>
   &numsp;
   <a href="https://www.cloudflare.com/en-gb/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloudflare/cloudflare-original.svg" alt="Cloudflare" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/selfhst/icons@main/svg/cloudflare-zero-trust.svg" alt="Cloudflare" width="40" height="40"/>
   </a>
   &numsp;
   <a href="https://www.chatgpt.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/openai.png" alt="Chat GPT" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/selfhst/icons@main/svg/chatgpt.svg" alt="Chat GPT" width="40" height="40"/>
   </a>
 </p>
 
 ## OSs
 <p align="left">
   <a href="https://www.debian.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" alt="Debian" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/selfhst/icons@main/svg/debian.svg" alt="Debian" width="40" height="40"/>
   </a>
   &numsp;
   <a href="https://proxmox.com/" target="_blank" rel="noreferrer">
-    <img src="https://yt3.googleusercontent.com/okXVWH4XmClMY0gdFqi7O2yJKsGUhs1qaSwzzBQGmtCaSvIWvyLvudrySvfaE0Z4VWsb2Ld4=s72-c-k-c0x00ffffff-no-rj" alt="Proxmox" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/selfhst/icons@main/svg/proxmox.svg" alt="Proxmox" width="40" height="40"/>
   </a>
   &numsp;
   <a href="https://www.devuan.org/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/9929258?s=200&v=4" alt="Devuan" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/selfhst/icons@main/svg/devuan.svg" alt="Devuan" width="40" height="40"/>
   </a>
   &numsp;
   <a href="https://opnsense.org/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/9979117?s=200&v=4" alt="OPNsense" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/selfhst/icons@main/svg/opnsense.svg" alt="OPNsense" width="40" height="40"/>
   </a>
   &numsp;
   <a href="https://dietpi.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/MichaIng/DietPi-Website/master/images/dietpi-logo_180x180.png" alt="DietPi" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/selfhst/icons@main/webp/dietpi.webp" alt="DietPi" width="40" height="40"/>
   </a>
   &numsp;
   <a href="https://www.gatech.edu/news/2025/10/22/microsoft-removing-support-windows-10-could-increase-e-waste-cybersecurity-threats" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg" alt="Windows11" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/selfhst/icons@main/svg/microsoft-windows.svg" alt="Windows11" width="40" height="40"/>
   </a>
   &numsp;
   <a href="https://ntdotdev.wordpress.com/2024/01/08/the-complete-tiny10-and-tiny11-list/" target="_blank" rel="noreferrer">
-    <img src="https://storage.ko-fi.com/cdn/useruploads/80d8879b-d2d1-4d95-8067-4765ffa8d3ef.png" alt="Tiny 11" width="40" height="40"/>
+    <img src="https://avatars.githubusercontent.com/u/38796849?v=4" alt="Tiny 11" width="40" height="40"/>
   </a>
 </p>
 
