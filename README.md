@@ -65,7 +65,11 @@ You can click the Preview link to take a look at your changes.
 <p align="left">
   <a href="https://www.rstudio.com/products/rstudio/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg" alt="RStudio" width="40" height="40"/>
-  </a>
+  </a> 
+  &numsp;
+  <a href="https://www.qt.io/development/tools/qt-creator-ide" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons%2Fqt%2Fqt-original.svg" alt="QtCreator" width="40" height="40"/>
+  </a> 
   &numsp;
   <a href="https://www.spyder-ide.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spyder/spyder-original.svg" alt="Spyder IDE" width="40" height="40"/>
