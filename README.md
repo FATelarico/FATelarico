@@ -132,11 +132,11 @@ You can click the Preview link to take a look at your changes.
 
 # Using GitHub Under Protest
 
-<details>
-<summary>This is not ideal...</summary>
-
 > [!WARNING]  
 > You're encouraged to add the below to your existing `README.md` on your GitHub project.
+
+<details>
+<summary>This is not ideal...</summary>
 
 These projects are currently hosted on GitHub.
 
