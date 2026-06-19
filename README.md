@@ -129,16 +129,24 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 
+
 # Using GitHub Under Protest
+
+<details>
+<summary>This is not ideal...</summary>
 
 > [!WARNING]  
 > You're encouraged to add the below to your existing `README.md` on your GitHub project.
- 
-These projects are currently hosted on GitHub.  This is not ideal; GitHub is a proprietary, trade-secret system that is not Free and Open Souce Software (FOSS). Using a proprietary system like GitHub to develop a FOSS project is deeply concerning as detaild by the
+
+These projects are currently hosted on GitHub.
+
+This is not ideal; GitHub is a proprietary, trade-secret system that is not Free and Open Souce Software (FOSS). Using a proprietary system like GitHub to develop a FOSS project is deeply concerning as detaild by the
 [Give up GitHub](https://GiveUpGitHub.org) campaign from [the Software Freedom Conservancy](https://sfconservancy.org).
 
 Contributors who personally have already quit using GitHub, can get in touch for how to send contributions without using GitHub.
 
 Any use of this account's code by GitHub Copilot, past or present, is done without permission. No consent was given to GitHub's use of this account's code in Copilot.
+
+</details>
 
 ![Logo of the GiveUpGitHub campaign](https://sfconservancy.org/img/GiveUpGitHub.png)
