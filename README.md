@@ -75,6 +75,10 @@ You can click the Preview link to take a look at your changes.
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spyder/spyder-original.svg" alt="Spyder IDE" width="40" height="40"/>
   </a>
   &numsp;
+  <a href="https://positron.posit.co/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/posit-dev/positron/blob/main/positron-product-icons%2Fpositron.png" alt="Spyder IDE" width="40" height="40"/>
+  </a>
+  &numsp;
   <a href="https://www.gitkraken.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitkraken/gitkraken-original.svg" alt="GitKraken" width="40" height="40"/>
   </a>
