@@ -7,10 +7,9 @@ You can click the Preview link to take a look at your changes.
 > [!NOTE]  
 > 👋 Hi, my name is Fabio A., I’m interested in network theory and econometrics.
 
-### Projects
+## Projects
 
-
-#### Research Software
+### Research Software
 
 |Logo|Name|Language/s|Online Sources|Version|
 |----|----|----------|--------------|-------|
@@ -20,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 ||SPB|<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/r/r-original.svg" height="24"/>|<a href="https://github.com/FATelarico/SPB"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons@main/svg/github.svg" height="24"/></a>&nbsp;<a href="https://CRAN.R-project.org/package=SPB"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/r/r-original.svg" height="24"/></a>|<img src="https://img.shields.io/cran/v/SPB"/>&nbsp;<img src="https://img.shields.io/github/v/tag/FATelarico/SPB"/>|
 ||BlockmodelingGUI|<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/r/r-original.svg" height="24"/>|<a href="https://github.com/FATelarico/BlockmodelingGUI"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons@main/svg/github.svg" height="24"/></a>&nbsp;<a href="https://CRAN.R-project.org/package=BlockmodelingGUI"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/r/r-original.svg" height="24"/></a>|<img src="https://img.shields.io/cran/v/BlockmodelingGUI"/>&nbsp;<img src="https://img.shields.io/github/v/tag/FATelarico/GUI-Generalised-Blockmodeling"/>|
 
-#### Other software
+### Other software
 
 |Logo|Name|Language/s|Online Sources|Version|
 |----|----|----------|--------------|-------|
@@ -29,7 +28,7 @@ You can click the Preview link to take a look at your changes.
 |<img src="https://raw.githubusercontent.com/FATelarico/InView-Highlighter/refs/heads/main/icon128.png" height="32"/>|InView-Highlighter|<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="24" height="24"/>|<a href="https://github.com/FATelarico/InView-Highlighter"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons@main/svg/github.svg" height="24"/></a>&nbsp;<a href="https://www.fatelarico.eu/InView-Highlighter/"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/html5/html5-plain.svg" height="24"/></a>&nbsp;<a href="https://microsoftedge.microsoft.com/addons/detail/inview-highlighter/inanbhbhbhmnjiobekceimlieonbffob"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/windows11/windows11-original.svg" height="24"/></a>|<img src="https://img.shields.io/github/v/tag/FATelarico/InView-Highlighter"/>|
 
 
-#### Mods
+### Mods
 
 |Logo|Name|Language/s|Online Sources|Version|
 |----|----|----------|--------------|-------|
@@ -39,8 +38,7 @@ You can click the Preview link to take a look at your changes.
 |<img src="https://staticdelivery.nexusmods.com/mods/1704/images/headers/149020_1746175372.jpg" width="64" height="32"/>|Patch for ARIS - Reborn and IW|<img src="https://upload.wikimedia.org/wikipedia/en/3/34/Creation_Kit_logo.png" alt="Creation Kit" height="24"/>|<a href="https://github.com/FATelarico/ARIS_WI_Patch.esp"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons@main/svg/github.svg" alt="GitHub" height="24"/></a>&nbsp;<a href="https://www.nexusmods.com/skyrimspecialedition/mods/149020"><img src="https://pbs.twimg.com/profile_images/1846572221625401344/JnriBG6k_400x400.png" alt="Nexus Mods" height="24"/></a>|<img src="https://img.shields.io/static/v1?label=version&amp;message=1.0&amp;color=orange" alt="Version 1.0"/>|
 
 
-
-### Languages
+## Languages
 
 <p align="left">
   <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
@@ -76,7 +74,7 @@ You can click the Preview link to take a look at your changes.
   </a>
 </p>
 
-### Tools
+## Tools
 
 <p align="left">
   <a href="https://www.rstudio.com/products/rstudio/" target="_blank" rel="noreferrer">
@@ -120,7 +118,7 @@ You can click the Preview link to take a look at your changes.
   </a>
 </p>
 
-### OSs
+## OSs
 <p align="left">
   <a href="https://www.debian.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/selfhst/icons@main/svg/debian.svg" alt="Debian" width="40" height="40"/>
@@ -154,7 +152,7 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 
-# Using GitHub Under Protest
+## Using GitHub Under Protest
 
 > [!WARNING]  
 > You're encouraged to add the below to your existing `README.md` on your GitHub project.
